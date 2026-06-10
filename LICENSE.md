@@ -1,4 +1,4 @@
-# 
+# Exclusif AI Sentiment Analysis for Social Media modèles. Avec augmentation des données et réseaux de neurones — optimisé pour des performances maximales.
 
 
 
